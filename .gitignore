@@ -1,0 +1,15 @@
+# Banco de dados e logs
+*.db
+*.sqlite3
+*.log
+
+# Python e Pydroid
+__pycache__/
+*.py[cod]
+.pydroid3/
+.last_survey_prompt.yaml
+.python_history
+
+# Ambientes virtuais
+venv/
+.env
